@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.4]
+
+- applies monochrome tone variations for debug variables and constants
+
 ## [0.0.3]
 
 - applies monochrome tone variations for editor, minimap and problems list highlights
