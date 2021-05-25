@@ -1,9 +1,10 @@
-# Change Log
+# Changelog
 
-All notable changes to the "monokuro" extension will be documented in this file.
+## [0.0.2]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- adds missing debug console foreground colors
+- adds publisher information
 
-## [Unreleased]
+## [0.0.1]
 
 - Initial release
