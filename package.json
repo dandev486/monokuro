@@ -1,6 +1,15 @@
 {
   "name": "monokuro",
   "displayName": "monokuro",
+  "publisher": "dandev486",
+  "author": {
+    "name": "dandev486",
+    "url": "https://github.com/dandev486"
+  },
+  "repository": {
+    "url": "https://github.com/dandev486/monokuro",
+    "type": "git"
+  },
   "description": "A tube monitor inspired monochromatic color theme for Microsoft Visual Studio Code!",
   "version": "0.0.1",
   "engines": {
