@@ -1,0 +1,61 @@
+{
+  "name": "monokuro",
+  "displayName": "monokuro",
+  "description": "A tube monitor inspired monochromatic color theme for Microsoft Visual Studio Code!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokuro Amber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-amber.json"
+      },
+      {
+        "label": "Monokuro Amber Bright",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-amber-bright.json"
+      },
+      {
+        "label": "Monokuro Amber Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-amber-dimmed.json"
+      },
+      {
+        "label": "Monokuro Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-gray.json"
+      },
+      {
+        "label": "Monokuro Gray Bright",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-gray-bright.json"
+      },
+      {
+        "label": "Monokuro Gray Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-gray-dimmed.json"
+      },
+      {
+        "label": "Monokuro Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-green.json"
+      },
+      {
+        "label": "Monokuro Green Bright",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-green-bright.json"
+      },
+      {
+        "label": "Monokuro Green Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-green-dimmed.json"
+      }
+    ]
+  }
+}
