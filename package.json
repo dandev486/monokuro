@@ -11,7 +11,7 @@
     "type": "git"
   },
   "description": "A tube monitor inspired monochromatic color theme for Microsoft Visual Studio Code!",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.56.0"
   },
