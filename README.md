@@ -20,8 +20,8 @@ A monochromatic color theme for Microsoft Visual Studio Code!
 
 ## MonokuroRetro Screenshots
 
-![MonokuroRetro Ambar][monokuroretro_ambar]
-![MonokuroRetro Ambar (Dimmed)][monokuroretro_ambar_dimmed]
+![MonokuroRetro Amber][monokuroretro_amber]
+![MonokuroRetro Amber (Dimmed)][monokuroretro_amber_dimmed]
 ![MonokuroRetro Green][monokuroretro_green]
 ![MonokuroRetro Green (Dimmed)][monokuroretro_green_dimmed]
 
