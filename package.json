@@ -10,8 +10,8 @@
     "url": "https://github.com/dandev486/monokuro",
     "type": "git"
   },
-  "description": "A tube monitor inspired monochromatic color theme for Microsoft Visual Studio Code!",
-  "version": "0.0.4",
+  "description": "A monochromatic color theme for Microsoft Visual Studio Code!",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.56.0"
   },
@@ -21,19 +21,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monokuro Amber",
+        "label": "Monokuro Blue",
         "uiTheme": "vs-dark",
-        "path": "./themes/monokuro-amber.json"
+        "path": "./themes/monokuro-blue.json"
       },
       {
-        "label": "Monokuro Amber Bright",
+        "label": "Monokuro Brown",
         "uiTheme": "vs-dark",
-        "path": "./themes/monokuro-amber-bright.json"
+        "path": "./themes/monokuro-brown.json"
       },
       {
-        "label": "Monokuro Amber Dimmed",
+        "label": "Monokuro Cyan",
         "uiTheme": "vs-dark",
-        "path": "./themes/monokuro-amber-dimmed.json"
+        "path": "./themes/monokuro-cyan.json"
       },
       {
         "label": "Monokuro Gray",
@@ -41,30 +41,70 @@
         "path": "./themes/monokuro-gray.json"
       },
       {
-        "label": "Monokuro Gray Bright",
-        "uiTheme": "vs-dark",
-        "path": "./themes/monokuro-gray-bright.json"
-      },
-      {
-        "label": "Monokuro Gray Dimmed",
-        "uiTheme": "vs-dark",
-        "path": "./themes/monokuro-gray-dimmed.json"
-      },
-      {
         "label": "Monokuro Green",
         "uiTheme": "vs-dark",
         "path": "./themes/monokuro-green.json"
       },
       {
-        "label": "Monokuro Green Bright",
+        "label": "Monokuro Indigo",
         "uiTheme": "vs-dark",
-        "path": "./themes/monokuro-green-bright.json"
+        "path": "./themes/monokuro-indigo.json"
       },
       {
-        "label": "Monokuro Green Dimmed",
+        "label": "Monokuro Lime",
         "uiTheme": "vs-dark",
-        "path": "./themes/monokuro-green-dimmed.json"
-      }
+        "path": "./themes/monokuro-lime.json"
+      },
+      {
+        "label": "Monokuro Orange",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-orange.json"
+      },
+      {
+        "label": "Monokuro Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-pink.json"
+      },
+      {
+        "label": "Monokuro Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-purple.json"
+      },
+      {
+        "label": "Monokuro Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-red.json"
+      },
+      {
+        "label": "Monokuro Teal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-teal.json"
+      },
+      {
+        "label": "Monokuro Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuro-yellow.json"
+      },
+      {
+        "label": "MonokuroRetro Amber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuroretro-amber.json"
+      },
+      {
+        "label": "MonokuroRetro Amber (Dimmed)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuroretro-amber-dimmed.json"
+      },
+      {
+        "label": "MonokuroRetro Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuroretro-green.json"
+      },
+      {
+        "label": "MonokuroRetro Green (Dimmed)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokuroretro-green-dimmed.json"
+      },
     ]
   }
 }

@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.0.5]
+
+- adds blue variant
+- adds brown variant
+- adds cyan variant
+- adds gray variant
+- adds green variant
+- adds indigo variant
+- adds lime variant
+- adds orange variant
+- adds pink variant
+- adds purple variant
+- adds red variant
+- adds teal variant
+- adds yellow variant
+- renames 'amber' variant to 'retro amber'
+- renames 'amber dimmed' variant to 'retro amber dimmed'
+- renames 'green' variant to 'retro green'
+- renames 'green dimmed' variant to 'retro green dimmed'
+
 ## [0.0.4]
 
 - applies monochrome tone variations for debug variables and constants
