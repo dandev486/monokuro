@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.0.7]
+
+- adjusts alpha of darker tones
+- adjusts some non-monochromatic color tones
+
+## [0.0.6]
+
+- adds simple icon
+
 ## [0.0.5]
 
 - adds blue variant
