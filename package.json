@@ -104,7 +104,7 @@
         "label": "MonokuroRetro Green (Dimmed)",
         "uiTheme": "vs-dark",
         "path": "./themes/monokuroretro-green-dimmed.json"
-      },
+      }
     ]
   }
 }
