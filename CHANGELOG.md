@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.8]
+
+- removes minimap gutter colors (to make it clearer)
+
 ## [0.0.7]
 
 - adjusts alpha of darker tones
