@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.9]
+
+- fixes list colors, preventing selected matching items from being unreadable
+
 ## [0.0.8]
 
 - removes minimap gutter colors (to make it clearer)

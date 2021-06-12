@@ -196,7 +196,7 @@
     "inputValidation.warningBackground": "#1C1C1C",
     "inputValidation.warningBorder": "#7986CB44",
     "inputValidation.warningForeground": "#7986CB",
-    "list.activeSelectionBackground": "#7986CB",
+    "list.activeSelectionBackground": "#7986CB88",
     "list.activeSelectionForeground": "#1C1C1C",
     "list.dropBackground": "#7986CB44",
     "list.errorForeground": "#7986CB",
