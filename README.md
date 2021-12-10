@@ -1,6 +1,7 @@
 # Monokuro
 
-A collection of monochromatic color themes for Microsoft Visual Studio Code!
+A collection of monochromatic color themes for Microsoft Visual Studio Code!  
+Monokuro is also available via [marketplace visualstudio](https://marketplace.visualstudio.com/items?itemName=dandev486.monokuro)
 
 ![Monokuro][monokuro]
 
