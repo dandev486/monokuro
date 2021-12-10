@@ -10,7 +10,7 @@
     "url": "https://github.com/dandev486/monokuro",
     "type": "git"
   },
-  "description": "A monochromatic color theme for Microsoft Visual Studio Code!",
+  "description": "A collection of monochromatic color themes for Microsoft Visual Studio Code!",
   "version": "0.0.10",
   "icon": "icon.png",
   "scripts": {
