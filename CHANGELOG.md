@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.10]
+
+- changes background color for normal themes from #1C1C1C to #262626
+- removes monokuro retro green and monokuro retro amber themes
+- renames monokuro retro amber dimmed to monokuro retro amber
+- renames monokuro retro green dimmed to monokuro retro green
+
 ## [0.0.9]
 
 - fixes list colors, preventing selected matching items from being unreadable

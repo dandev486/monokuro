@@ -11,8 +11,12 @@
     "type": "git"
   },
   "description": "A monochromatic color theme for Microsoft Visual Studio Code!",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "icon": "icon.png",
+  "scripts": {
+    "package": "vsce package",
+    "deploy": "vsce publish --yarn"
+  },
   "engines": {
     "vscode": "^1.56.0"
   },
@@ -92,19 +96,9 @@
         "path": "./themes/monokuroretro-amber.json"
       },
       {
-        "label": "MonokuroRetro Amber (Dimmed)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/monokuroretro-amber-dimmed.json"
-      },
-      {
         "label": "MonokuroRetro Green",
         "uiTheme": "vs-dark",
         "path": "./themes/monokuroretro-green.json"
-      },
-      {
-        "label": "MonokuroRetro Green (Dimmed)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/monokuroretro-green-dimmed.json"
       }
     ]
   }
