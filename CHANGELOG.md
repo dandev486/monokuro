@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.11]
+
+- fixes bracket pair foreground colors that were no longer monochromatic
+
 ## [0.0.10]
 
 - changes background color for normal themes from #1C1C1C to #262626

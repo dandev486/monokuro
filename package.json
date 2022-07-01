@@ -11,7 +11,7 @@
     "type": "git"
   },
   "description": "A collection of monochromatic color themes for Microsoft Visual Studio Code!",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "icon": "icon.png",
   "scripts": {
     "package": "vsce package",
